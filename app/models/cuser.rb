@@ -1,0 +1,2 @@
+class Cuser < ApplicationRecord
+end

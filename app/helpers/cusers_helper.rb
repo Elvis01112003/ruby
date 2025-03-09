@@ -1,0 +1,2 @@
+module CusersHelper
+end
